@@ -17,7 +17,7 @@
       }
 
       .news-title {
-        @apply text-2xl font-extrabold text-pink;
+        @apply text-2xl font-extrabold text-blue;
         @apply md:text-3xl;
       }
 

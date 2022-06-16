@@ -25,7 +25,7 @@ body {
 * Basic styles for links
 */
 a {
-  @apply no-underline text-pink;
+  @apply no-underline text-blue;
 }
 
 a:hover,

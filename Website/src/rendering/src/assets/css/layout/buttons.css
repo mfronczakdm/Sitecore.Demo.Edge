@@ -24,7 +24,7 @@
 }
 
 .btn--main--square {
-  @apply bg-white-light text-pink px-24 text-xl;
+  @apply bg-white-light text-blue px-24 text-xl;
   @apply hover:bg-white;
   @apply disabled:bg-white disabled:cursor-not-allowed;
 }

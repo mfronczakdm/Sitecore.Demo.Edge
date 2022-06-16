@@ -3,7 +3,7 @@
     @apply font-bold text-2xl;
 
     span {
-      @apply text-pink;
+      @apply text-blue;
     }
   }
 

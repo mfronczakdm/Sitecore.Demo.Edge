@@ -38,7 +38,7 @@
 
       .list-item {
         a {
-          @apply text-pink;
+          @apply text-blue;
         }
       }
     }
@@ -54,7 +54,7 @@
     }
 
     .view-all-link {
-      @apply text-pink font-medium;
+      @apply text-blue font-medium;
     }
   }
 }

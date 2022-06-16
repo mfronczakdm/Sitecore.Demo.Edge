@@ -15,7 +15,7 @@
     }
 
     svg.svg-inline--fa {
-      @apply w-full text-5xl text-pink-lightest;
+      @apply w-full text-5xl text-blue-lightest;
     }
 
     p {
@@ -23,7 +23,7 @@
     }
 
     a {
-      @apply text-pink underline;
+      @apply text-blue underline;
     }
   }
 }
