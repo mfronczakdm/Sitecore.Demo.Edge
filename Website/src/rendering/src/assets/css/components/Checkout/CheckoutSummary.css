@@ -11,7 +11,7 @@
 
   .shipping-line {
     .line-amount {
-      @apply text-blue;
+      @apply text-pink;
     }
   }
 

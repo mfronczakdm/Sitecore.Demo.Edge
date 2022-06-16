@@ -90,7 +90,7 @@
       .ticket-name,
       .ticket-price,
       ul li svg {
-        @apply text-blue;
+        @apply text-pink;
       }
     }
   }

@@ -10,7 +10,7 @@
     @include flex--center--column;
 
     .section__content__title {
-      @apply text-2xl font-bold pb-5 m-0 text-blue-light normal-case;
+      @apply text-2xl font-bold pb-5 m-0 text-pink-light normal-case;
       @apply md:text-5xl;
     }
 
