@@ -29,7 +29,7 @@
       }
 
       h5 {
-        @apply text-blue uppercase;
+        @apply text-pink uppercase;
 
         letter-spacing: 1px;
         font-weight: 500;
