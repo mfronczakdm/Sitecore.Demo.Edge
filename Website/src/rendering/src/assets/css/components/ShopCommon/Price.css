@@ -2,7 +2,7 @@
   @apply flex flex-wrap justify-end text-right;
 
   &-base {
-    @apply text-sm text-blue font-bold w-full;
+    @apply text-sm text-pink font-bold w-full;
   }
 
   &.price-orange {
@@ -27,7 +27,7 @@
     }
 
     .price-final {
-      @apply text-sm text-blue font-bold w-full;
+      @apply text-sm text-pink font-bold w-full;
     }
 
     &.price-orange {
