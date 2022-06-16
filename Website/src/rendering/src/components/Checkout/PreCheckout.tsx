@@ -10,7 +10,7 @@ const PreCheckout = (): JSX.Element => {
       <p>to continue with checkout</p>
       <div className="precheckout-grid">
         <div className="precheckout-grid-item">
-          <FontAwesomeIcon icon={faSignInAlt} className="text-pink" />
+          <FontAwesomeIcon icon={faSignInAlt} className="text-blue" />
           <h6 className="item-title">Already a member?</h6>
           <p>Log in your existing account!</p>
           <Link href={getLoginUrl('/shop/checkout/checkout')}>
@@ -26,7 +26,7 @@ const PreCheckout = (): JSX.Element => {
           </Link>
         </div>
         <div className="precheckout-grid-item">
-          <FontAwesomeIcon icon={faIdBadge} className="text-pink" />
+          <FontAwesomeIcon icon={faIdBadge} className="text-blue" />
           <h6 className="item-title">It will be a single purchase?</h6>
           <p>Continue to our guest option!</p>
           <Link href="/shop/checkout/checkout">

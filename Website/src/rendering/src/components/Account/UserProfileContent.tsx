@@ -31,7 +31,7 @@ const UserProfile = ({ user }: UserProfileContentProps): JSX.Element => {
         <li className="user-profile-card">
           <Link href="/account/address-book">
             <a>
-              <FontAwesomeIcon icon={faAddressBook} className="text-pink" />
+              <FontAwesomeIcon icon={faAddressBook} className="text-blue" />
               <p>Address book</p>
             </a>
           </Link>
@@ -55,7 +55,7 @@ const UserProfile = ({ user }: UserProfileContentProps): JSX.Element => {
         <li className="user-profile-card">
           <Link href="#">
             <a>
-              <FontAwesomeIcon icon={faList} className="text-pink" />
+              <FontAwesomeIcon icon={faList} className="text-blue" />
               <p>Saved lists</p>
             </a>
           </Link>

@@ -79,12 +79,12 @@
           @apply 2xl:text-2xl 2xl:leading-8;
 
           .information-type {
-            @apply text-pink;
+            @apply text-blue;
           }
         }
 
         .name {
-          @apply text-2xl uppercase font-bold leading-7 text-pink;
+          @apply text-2xl uppercase font-bold leading-7 text-blue;
           @apply md:text-xl md:leading-6;
           @apply 2xl:text-3xl 2xl:leading-8;
         }
@@ -137,11 +137,11 @@
       }
 
       .name {
-        @apply text-pink-light;
+        @apply text-blue-light;
       }
 
       .title .information-type {
-        @apply text-pink-light;
+        @apply text-blue-light;
       }
     }
   }
@@ -155,11 +155,11 @@
       }
 
       .name {
-        @apply text-pink;
+        @apply text-blue;
       }
 
       .title .information-type {
-        @apply text-pink;
+        @apply text-blue;
       }
     }
   }

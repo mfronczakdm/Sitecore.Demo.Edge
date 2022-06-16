@@ -24,7 +24,7 @@ export const AccountLayout = (props: PropsWithChildren<unknown>): JSX.Element =>
         <p>Log in or register to view order history, saved addresses and more!</p>
         <div className="account-layout-grid">
           <div className="account-layout-grid-item">
-            <FontAwesomeIcon icon={faSignInAlt} className="text-pink" />
+            <FontAwesomeIcon icon={faSignInAlt} className="text-blue" />
             <h6 className="item-title">Already a member?</h6>
             <p>Log in your existing account!</p>
             <Link href={getLoginUrl(router.asPath)}>

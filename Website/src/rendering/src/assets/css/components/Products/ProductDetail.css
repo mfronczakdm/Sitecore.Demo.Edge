@@ -27,7 +27,7 @@
       }
 
       .product-price {
-        @apply text-pink font-bold;
+        @apply text-blue font-bold;
       }
 
       .product-quantity {
@@ -53,7 +53,7 @@
       }
 
       .product-similar-items .product-warning {
-        @apply text-pink;
+        @apply text-blue;
       }
     }
   }

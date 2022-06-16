@@ -1,6 +1,6 @@
 .form {
   h2 {
-    @apply text-pink text-4xl uppercase;
+    @apply text-blue text-4xl uppercase;
   }
 
   .floating-label-wrap {
