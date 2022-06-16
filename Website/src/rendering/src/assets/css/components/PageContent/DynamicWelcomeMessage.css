@@ -1,5 +1,5 @@
 .dynamic-welcome-message {
-  @apply py-0 bg-blue-lightest;
+  @apply py-0 bg-pink-lightest;
 
   .message-banner {
     @apply py-4 text-base leading-normal text-black;
