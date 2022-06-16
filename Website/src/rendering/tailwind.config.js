@@ -61,11 +61,11 @@ module.exports = {
         darkest: '#884b00',
       },
       pink: {
-        DEFAULT: '#ff1886',
-        light: '#ff5caa',
-        lightest: '#ffa0ce',
+        DEFAULT: '#D21E71',
+        light: '#ED7EB1',
+        lightest: '#F2A2C6',
         dark: '#d30065',
-        darkest: '#8f0044',
+        darkest: '#d30065',
       }
     },
     fontFamily: {
