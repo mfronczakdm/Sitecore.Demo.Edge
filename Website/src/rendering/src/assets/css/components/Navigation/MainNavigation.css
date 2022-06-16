@@ -21,7 +21,7 @@
         @apply text-xl font-bold leading-relaxed inline-block py-4 whitespace-nowrap uppercase text-white;
 
         img {
-          height: 46px;
+          height: 100px;
         }
       }
 
