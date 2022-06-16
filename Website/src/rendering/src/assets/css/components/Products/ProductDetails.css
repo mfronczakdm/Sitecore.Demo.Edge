@@ -162,7 +162,7 @@
         @apply flex items-center text-sm;
 
         .quantity-alert {
-          @apply ml-3 text-blue;
+          @apply ml-3 text-pink;
         }
       }
     }

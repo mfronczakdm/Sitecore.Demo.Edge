@@ -5,13 +5,13 @@
     @apply flex justify-between px-3 text-sm;
 
     &.has-discount {
-      @apply text-blue;
+      @apply text-pink;
     }
   }
 
   .shipping-line {
     .line-amount {
-      @apply text-blue;
+      @apply text-pink;
     }
   }
 

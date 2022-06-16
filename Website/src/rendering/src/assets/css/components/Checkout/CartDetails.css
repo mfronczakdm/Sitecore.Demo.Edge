@@ -87,7 +87,7 @@
         }
 
         &-amount {
-          @apply text-blue font-bold ml-auto;
+          @apply text-pink font-bold ml-auto;
         }
 
         &-code {
@@ -170,7 +170,7 @@
     }
 
     .quantity-alert {
-      @apply text-blue;
+      @apply text-pink;
     }
 
     .btn-remove,
