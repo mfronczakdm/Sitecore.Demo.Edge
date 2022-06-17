@@ -4,7 +4,7 @@ import { getIpAddress } from 'src/services/IpAddressService';
 import { useRouter } from 'next/router';
 
 const DynamicWelcomeMessage = (): JSX.Element => {
-  const DEFAULT_MESSAGE = 'Welcome to PLAY! Summit.';
+  const DEFAULT_MESSAGE = 'Connex is building for a better society';
 
   const [message, SetMessage] = useState('');
   const router = useRouter();
