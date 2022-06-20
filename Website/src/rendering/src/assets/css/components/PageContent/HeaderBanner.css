@@ -14,7 +14,7 @@
 
     .subtitle {
       @apply text-pink-darkest;
-      @apply uppercase text-4xl
+      @apply uppercase text-4xl;
     }
   }
 }
