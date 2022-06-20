@@ -13,7 +13,8 @@
     }
 
     .subtitle {
-      @apply text-yellow;
+      @apply text-pink-darkest;
+      @apply uppercase text-4xl
     }
   }
 }
