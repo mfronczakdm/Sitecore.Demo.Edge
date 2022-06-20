@@ -18,10 +18,10 @@
       @apply xl:w-auto xl:static xl:block;
 
       .logo-link {
-        @apply text-xl font-bold leading-relaxed inline-block py-4 whitespace-nowrap uppercase text-white;
+        @apply text-xl font-bold leading-relaxed inline-block py-1 whitespace-nowrap uppercase text-white;
 
         img {
-          height: 100px;
+          height: 85px;
         }
       }
 
